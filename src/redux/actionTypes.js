@@ -1,0 +1,3 @@
+export const ASSET_FORM = "ASSET_FORM";
+export const ASSET_CHART = "ASSET_CHART";
+export const CARBON_INTENSITY_DATA = "CARBON_INTENSITY_DATA";
